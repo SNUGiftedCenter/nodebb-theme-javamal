@@ -1,4 +1,5 @@
-nodebb-theme-vanilla
+nodebb-theme-javamal
 ====================
 
-Vanilla theme for NodeBB based on Bootstrap. Perfect for starting your own NodeBB themes!
+JavaMAL theme for NodeBB based on Bootstrap. This will add the JavaMAL feature into NodeBB platform.
+
